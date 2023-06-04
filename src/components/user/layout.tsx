@@ -13,7 +13,7 @@ function Layout({ children }: LayoutProps) {
     }, [i18n]);
 
     return (
-        <div dir={i18n.language === "ar" ? "rtl" : "ltr"} className=" bg-homeBackground bg-cover bg-no-repeat w-full h-screen">
+        <div dir={i18n.language === "en" ? "ltr" : "rtl"} className=" bg-homeBackground bg-cover bg-no-repeat w-full h-screen">
             <NavBar />
             {children}
             <Footer />
