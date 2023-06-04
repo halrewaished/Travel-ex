@@ -1,3 +1,14 @@
 {
-  "app.name": "Example"
+  "nav.bar.home.page": "Home",
+  "nav.bar.discover.page": "Discover",
+  "nav.bar.photo.page": "Photo",
+  "nav.bar.contact.page": "Contact",
+  "home.page.your": "TRAVEL NEWS",
+  "home.page.subscribe": "SUBSCRIBE",
+  "home.page.content": "Lorem ipsum dolor sit amet consectetur. Lectus diam turpis condimentum convallis in. Ac lorem cras laoreet proin suscipit tempor nibh fermentum. Quisque varius sit elit placerat nulla ullamcorper eget. Lobortis semper nec augue sed aliquam. In eget mattis dui arcu mauris blandit. Elementum neque magna vestibulum amet sagittis vel.",
+  "home.page.off": "Get 10% Off on your next travel",
+  "home.page.discovery": "DISCOVERY",
+  "home.page.photography": "PHOTOGRAPH",
+  "home.page.happen": "HAPPENING NOW.",
+  "home.page.English": "English"
 }

@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "ABeeZee-Regular";
+    src: url("../public/assets/fonts/ABeeZee-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Kanit-Regular";
+    src: url("../public/assets/fonts/Kanit-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

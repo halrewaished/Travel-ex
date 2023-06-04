@@ -1,3 +1,14 @@
 {
-  "app.name": "اسم المشروع"
+  "nav.bar.home.page":"الصفحة الرئيسية",
+  "nav.bar.discover.page": "اكتشف",
+  "nav.bar.photo.page": "صور",
+  "nav.bar.contact.page": "تواصل معنا",
+  "home.page.your":"اخبار السفر",
+  "home.page.subscribe":"اشتراك",
+  "home.page.content":"محتوى",
+  "home.page.off":"احصل على خصم ١٠٪ السفره القادمة",
+  "home.page.discovery":"اكتشاف",
+  "home.page.photography":"صور ",
+  "home.page.happen":"يحدث الان",
+  "home.page.English":"عربي"
 }
