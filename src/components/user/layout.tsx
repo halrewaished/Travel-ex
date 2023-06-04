@@ -9,7 +9,7 @@ interface LayoutProps {
 function Layout({ children }: LayoutProps) {
     const { i18n } = useTranslation();
     useEffect(() => {
-        i18n.changeLanguage(localStorage.getItem("language") || "ar");
+        i18n.changeLanguage(localStorage.getItem("language") || "en");
     }, [i18n]);
 
     return (
